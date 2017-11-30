@@ -1,7 +1,7 @@
 {
-  "name": "froggyfrog",
-  "version": "1.0.0",
-  "description": "Node Application Patterns - Pluralsight",
+  "name": "froggyfrog-membership",
+  "version": "0.0.1",
+  "description": "A Membership system patterned after Devise",
   "dependencies": {},
   "devDependencies": {
     "grunt": "^1.0.1",
